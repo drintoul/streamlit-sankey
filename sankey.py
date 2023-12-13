@@ -15,4 +15,3 @@ fig.update_layout(title='Sankey Diagram', font=dict(size=12))
 
 # Display the diagram
 st.plotly_chart(fig)
-(base) drintoul@MacMini-Dave streamlit % 
